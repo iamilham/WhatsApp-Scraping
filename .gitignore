@@ -1,4 +1,8 @@
 env/
+Lib/
+Scripts/
+Include/
 geckodriver.log
 .vscode
 mysettings.txt
+pyvenv.cfg
